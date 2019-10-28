@@ -1,5 +1,6 @@
 import QtQuick 2.0
 
+//new changes
 Rectangle {
     id:root
     property alias text:number.text
