@@ -8,18 +8,7 @@ Window {
     width: 400
     height: 500
     title: qsTr("Hello World")
-    //    Rectangle {
-    //        id: rect
-    //        width: 200
-    //        height: 100
-    //        color: "red"
 
-    //        MouseArea {
-    //            id: mousearea
-    //            anchors.fill: parent
-    //            onClicked: Logic.onClicked(rect)
-    //        }
-    //    }
 
     Rectangle{
         id:display
