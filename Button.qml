@@ -1,11 +1,14 @@
 import QtQuick 2.0
 
-<<<<<<< Updated upstream
+
+//new changes
+=======
 //testing branch
 
 =======
 //testing github
->>>>>>> Stashed changes
+
+
 
 Rectangle {
     id:root
