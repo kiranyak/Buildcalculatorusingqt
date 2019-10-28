@@ -1,5 +1,12 @@
 import QtQuick 2.0
 
+<<<<<<< Updated upstream
+//testing branch
+
+=======
+//testing github
+>>>>>>> Stashed changes
+
 Rectangle {
     id:root
     property alias text:number.text
